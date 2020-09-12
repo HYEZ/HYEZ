@@ -1,6 +1,7 @@
 # Welcome to HYEZ's GitHub 👏
-
+<!--
 <img align="right" alt="GIF" src="https://tenor.com/view/link-zelda-dance-legend-nintendo-gif-5780130.gif" width="340">
+-->
 
 ## I'm Hyeji Oh
 - 🔭 Master's Student in Sookmyung Women's Univ. / Korea
