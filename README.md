@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning Deep Learning, NLP, and Recommendations
 - 💬 Ask me about DL, Python, Web Development, and my projects on oohyejioo@sookmyung.ac.kr
 - ⚡ Fun fact: Artificial intelligence, Data Mining
+- 👻 Portfolio: http://hyez.github.io/
 
 ### Languages and Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
