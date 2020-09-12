@@ -5,7 +5,7 @@
 
 ## I'm Hyeji Oh
 - 🔭 Master's Student in Sookmyung Women's Univ. / Korea
-- 👩‍💻 I’m currently working on KIE
+- 👩‍💻 I’m currently working on [KIE](http://hyez.github.io/)
 - 🌱 I’m currently learning Deep Learning, NLP, and Recommendations
 - 💬 Ask me about DL, Python, Web Development, and my projects on oohyejioo@sookmyung.ac.kr
 - ⚡ Fun fact: Artificial intelligence, Data Mining
