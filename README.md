@@ -34,7 +34,7 @@
 ***
 
 ## Recommendations
-<a href="https://github.com/HYEZ/Wide-and-Deep-tensorflow"">
+<a href="https://github.com/HYEZ/Wide-and-Deep-tensorflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Wide-and-Deep-tensorflow" />
 </a>
 
