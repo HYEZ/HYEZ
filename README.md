@@ -33,8 +33,8 @@
 
 ***
 
-## Recommendations
-<div style='margin: 0 0 20px 0'>
+## Recommendation Systems
+<div style='margin: 0 0 20px 0 !important'>
 <a href="https://github.com/HYEZ/Wide-and-Deep-tensorflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Wide-and-Deep-tensorflow" />
 </a>
@@ -44,7 +44,7 @@
 </a>
 </div>
 
-<div style='margin: 0 0 20px 0'>
+<div style='margin: 0 0 20px 0 !important'>
 <a href="https://github.com/HYEZ/BPR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=BPR" />
 </a>
@@ -54,7 +54,7 @@
 </a>
 </div>
 
-<div style='margin: 0 0 20px 0'>
+<div style='margin: 0 0 20px 0 !important'>
 
 <a href="https://github.com/HYEZ/Item2vec-Recommendation-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Item2vec-Recommendation-System" />
