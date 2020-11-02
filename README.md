@@ -43,14 +43,15 @@
 </a>
 
 <br/>
+<a href="https://github.com/HYEZ/Item2vec-Recommendation-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Item2vec-Recommendation-System" />
+</a>
+
 <a href="https://github.com/HYEZ/Factorization-Machines">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Factorization-Machines" />
 </a>
 
-<a href="https://github.com/HYEZ/Item2vec-Recommendation-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Item2vec-Recommendation-System" />
-</a>
-</div>
+
 
 <br/>
 <a href="https://github.com/HYEZ/BPR">
