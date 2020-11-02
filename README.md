@@ -34,6 +34,7 @@
 ***
 
 ## Recommendations
+<div>
 <a href="https://github.com/HYEZ/Wide-and-Deep-tensorflow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Wide-and-Deep-tensorflow" />
 </a>
@@ -41,7 +42,7 @@
 <a href="https://github.com/HYEZ/Deep-Youtube-Recommendations">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Deep-Youtube-Recommendations" />
 </a>
-
+</div>
 <a href="https://github.com/HYEZ/Factorization-Machines">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Factorization-Machines" />
 </a>
