@@ -61,7 +61,7 @@
         </td>
     </tr>
     <tr>
-          <td align="center">
+          <td align="center" style="background:white;border:none;">
               <a href="https://github.com/HYEZ/BPR">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=BPR" />
               </a>    
