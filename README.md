@@ -24,7 +24,7 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact)](https://github.com/HYEZ/github-readme-stats)
 
 
-![HYEZ's github stats](https://github-readme-stats.vercel.app/api?username=HYEZ&show_icons=true&theme=radical)
+[![HYEZ's github stats](https://github-readme-stats.vercel.app/api?username=HYEZ)](https://github.com/HYEZ/github-readme-stats)
