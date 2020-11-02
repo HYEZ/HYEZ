@@ -43,6 +43,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Deep-Youtube-Recommendations" />
 </a>
 </div>
+
+<div>
 <a href="https://github.com/HYEZ/Factorization-Machines">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Factorization-Machines" />
 </a>
@@ -50,7 +52,9 @@
 <a href="https://github.com/HYEZ/Item2vec-Recommendation-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Item2vec-Recommendation-System" />
 </a>
+</div>
 
+<div>
 
 <a href="https://github.com/HYEZ/BPR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=BPR" />
@@ -59,5 +63,5 @@
 <a href="https://github.com/HYEZ/LogisticMF">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=LogisticMF" />
 </a>
-
+</div>
 
