@@ -24,12 +24,12 @@
 
 ## Recommendation Systems
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Wide-and-Deep-tensorflow)](https://github.com/HYEZ/Wide-and-Deep-tensorflow)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Deep-Youtube-Recommendations)](https://github.com/HYEZ/Deep-Youtube-Recommendations)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Item2vec-Recommendation-System)](https://github.com/HYEZ/Item2vec-Recommendation-System)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Factorization-Machines)](https://github.com/HYEZ/Factorization-Machines)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=BPR)](https://github.com/HYEZ/BPR)
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=LogisticMF)](https://github.com/HYEZ/LogisticMF)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&show_owner=true&repo=Wide-and-Deep-tensorflow)](https://github.com/HYEZ/Wide-and-Deep-tensorflow)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&show_owner=true&repo=Deep-Youtube-Recommendations)](https://github.com/HYEZ/Deep-Youtube-Recommendations)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&show_owner=true&repo=Item2vec-Recommendation-System)](https://github.com/HYEZ/Item2vec-Recommendation-System)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&show_owner=true&repo=Factorization-Machines)](https://github.com/HYEZ/Factorization-Machines)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&show_owner=true&repo=BPR)](https://github.com/HYEZ/BPR)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&show_owner=true&repo=LogisticMF)](https://github.com/HYEZ/LogisticMF)
 
 ***
 
