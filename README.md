@@ -32,5 +32,30 @@
 
 ***
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=github-readme-stats)](https://github.com/HEYZ/github-readme-stats)
+## Recommendations
+<a href="https://github.com/HYEZ/Wide-and-Deep-tensorflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=https://github.com/HYEZ/Wide-and-Deep-tensorflow" />
+</a>
+
+<a href="https://github.com/HYEZ/Deep-Youtube-Recommendations">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=https://github.com/HYEZ/Deep-Youtube-Recommendations" />
+</a>
+
+<a href="https://github.com/HYEZ/Factorization-Machines">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=https://github.com/HYEZ/Factorization-Machines" />
+</a>
+
+<a href="https://github.com/HYEZ/Item2vec-Recommendation-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=https://github.com/HYEZ/Item2vec-Recommendation-System" />
+</a>
+
+
+<a href="https://github.com/HYEZ/BPR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=https://github.com/HYEZ/BPR" />
+</a>
+
+<a href="https://github.com/HYEZ/LogisticMF">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=https://github.com/HYEZ/LogisticMF" />
+</a>
+
 
