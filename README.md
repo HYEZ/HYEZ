@@ -23,11 +23,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 ***
-<a href="https://github.com/HYEZ/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HYEZ" />
+<a href="https://github.com/HYEZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HYEZ&hide=prs,issues" />
 </a>
-<a href="https://github.com/HYEZ/github-readme-stats&hide=prs,issues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact&hide=prs,issues" />
+<a href="https://github.com/HYEZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact" />
 </a>
 
 
