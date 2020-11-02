@@ -76,7 +76,7 @@
 
 <style>
     td {
-      background:white;
-      border:none;
+      background:white !important;
+      border:none !important;
     }
 </style>
