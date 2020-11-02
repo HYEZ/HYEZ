@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HYEZ&hide=prs,issues" />
 </a>
 <a href="https://github.com/HYEZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact&hide=c" />
 </a>
 
 
