@@ -24,10 +24,13 @@
 
 ***
 <a href="https://github.com/HYEZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HYEZ&hide=prs,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HYEZ&hide=prs,issues&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/HYEZ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact&hide=c" />
 </a>
 
+***
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=github-readme-stats)](https://github.com/HEYZ/github-readme-stats)
 
