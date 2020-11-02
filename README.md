@@ -73,3 +73,10 @@
           </td>
       </tr>
 </table>
+
+<style>
+    td {
+      background:white;
+      border:none;
+    }
+</style>
