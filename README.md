@@ -27,11 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HYEZ" />
 </a>
 <a href="https://github.com/HYEZ/github-readme-stats&hide=prs,issues">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact&hide=prs,issues" />
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact)](https://github.com/HYEZ/github-readme-stats&hide=prs,issues)
-
-
-[![HYEZ's github stats](https://github-readme-stats.vercel.app/api?username=HYEZ)](https://github.com/HYEZ/github-readme-stats)
