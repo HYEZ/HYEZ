@@ -22,7 +22,7 @@
 <br/>
 
 
-## The Study of Recommendation Systems
+## Study of Recommendation Systems
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&show_owner=true&repo=Wide-and-Deep-tensorflow)](https://github.com/HYEZ/Wide-and-Deep-tensorflow)
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&show_owner=true&repo=Deep-Youtube-Recommendations)](https://github.com/HYEZ/Deep-Youtube-Recommendations)
