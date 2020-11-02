@@ -34,11 +34,11 @@
 ***
 
 ## Recommendations
-<a href="https://github.com/HYEZ/Wide-and-Deep-tensorflow">
+<a href="https://github.com/HYEZ/Wide-and-Deep-tensorflow" class="Box pinned-item-list-item d-flex p-3 width-full js-pinned-item-list-item public source reorderable sortable-button-item">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Wide-and-Deep-tensorflow" />
 </a>
 
-<a href="https://github.com/HYEZ/Deep-Youtube-Recommendations">
+<a href="https://github.com/HYEZ/Deep-Youtube-Recommendations" class="Box pinned-item-list-item d-flex p-3 width-full js-pinned-item-list-item public source reorderable sortable-button-item">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Deep-Youtube-Recommendations" />
 </a>
 
