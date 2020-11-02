@@ -54,29 +54,22 @@
               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Item2vec-Recommendation-System" />
             </a>    
         </td>
-        <td align="center">
+        <td align="center" style="background:white !important;border:none !important;">
             <a href="https://github.com/HYEZ/Factorization-Machines">
               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=Factorization-Machines" />
             </a>  
         </td>
     </tr>
     <tr>
-          <td align="center" style="background:white;border:none;">
+          <td align="center" style="background:white !important;border:none !important;">
               <a href="https://github.com/HYEZ/BPR">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=BPR" />
               </a>    
           </td>
-          <td align="center">
+          <td align="center" style="background:white !important;border:none !important;">
              <a href="https://github.com/HYEZ/LogisticMF">
               <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&repo=LogisticMF" />
             </a>
           </td>
       </tr>
 </table>
-
-<style>
-    td {
-      background:white !important;
-      border:none !important;
-    }
-</style>
