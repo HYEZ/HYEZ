@@ -35,7 +35,7 @@
 
 ## Recommendation Systems
 
-<table align="center" border=none>
+<table align="center" border="0">
     <tr>
         <td align="center">
             <a href="https://github.com/HYEZ/Wide-and-Deep-tensorflow">
