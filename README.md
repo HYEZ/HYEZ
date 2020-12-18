@@ -1,4 +1,4 @@
-# Welcome to HYEZ's GitHub 👏
+# H Y E Z 
 <!--
 <img align="right" alt="GIF" src="https://tenor.com/view/link-zelda-dance-legend-nintendo-gif-5780130.gif" width="340">
 -->
