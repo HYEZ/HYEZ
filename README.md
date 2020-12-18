@@ -5,7 +5,7 @@
 <!--
 ![IMG_1908](https://user-images.githubusercontent.com/21326503/102598799-e5eac900-415f-11eb-83ca-80b0c92206dc.JPG)
 -->
-## I'm Hyeji Oh
+## My profile
 - 🔭 Master's Student in Sookmyung Women's Univ. / Korea
 - 👩‍💻 I’m currently working on [KIE](https://github.com/KIE-LAB/)
 - 🌱 I’m currently learning Recommendations, NLP, Game AI.
@@ -13,14 +13,16 @@
 - ⚡ Fun fact: Artificial intelligence, Data Mining
 - 👻 Portfolio: http://hyez.github.io/
 
+***
 
 <a href="https://github.com/HYEZ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HYEZ&hide=prs,issues&count_private=true&show_icons=true&theme=buefy" />
 </a>
+<!--
 <a href="https://github.com/HYEZ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact&theme=buefy" />
 </a>
-
+-->
 <br/>
 
 <!--
