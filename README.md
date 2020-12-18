@@ -1,4 +1,4 @@
-# H Y E Z 
+# @HYEZ
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/21326503/102598799-e5eac900-415f-11eb-83ca-80b0c92206dc.JPG" width="240">
 
