@@ -1,6 +1,6 @@
 # @HYEZ
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/21326503/102598799-e5eac900-415f-11eb-83ca-80b0c92206dc.JPG" width="240">
+<!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/21326503/102598799-e5eac900-415f-11eb-83ca-80b0c92206dc.JPG" width="240"> -->
 
 <!--
 ![IMG_1908](https://user-images.githubusercontent.com/21326503/102598799-e5eac900-415f-11eb-83ca-80b0c92206dc.JPG)
@@ -15,9 +15,9 @@
 
 ***
 
-<!-- <a href="https://github.com/HYEZ">
+<a href="https://github.com/HYEZ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HYEZ&hide=prs,issues&count_private=true&show_icons=true&theme=buefy" />
-</a> -->
+</a>
 <!--
 <a href="https://github.com/HYEZ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact&theme=buefy" />
