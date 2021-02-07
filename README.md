@@ -18,11 +18,6 @@
 <a href="https://github.com/HYEZ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HYEZ&hide=prs,issues&count_private=true&show_icons=true&theme=buefy" />
 </a>
-<!--
-<a href="https://github.com/HYEZ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYEZ&layout=compact&theme=buefy" />
-</a>
--->
 <br/>
 
 ## Study
