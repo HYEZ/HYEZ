@@ -8,7 +8,7 @@
 ## My profile
 - 🔭 Master's Student in Sookmyung Women's Univ. / Korea
 - 👩‍💻 I’m currently working on [KIE](https://github.com/KIE-LAB/)
-- 🌱 I’m currently learning Recommendations, NLP, Game AI, and Reinforcement Learning.
+- 🌱 I’m currently learning Recommendations, NLP, and Reinforcement Learning.
 - 💬 Ask me about DL, Python, Web Development, and my projects on oohyejioo@sookmyung.ac.kr
 - ⚡ Fun fact: Artificial intelligence, Data Mining
 - 👻 Portfolio: http://hyez.github.io/
