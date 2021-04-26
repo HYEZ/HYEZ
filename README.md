@@ -28,7 +28,6 @@
 - [『딥러닝을 활용한 추천시스템 구현』](https://github.com/HYEZ/Recsys-with-DL-study)
 - [『Fundamental of Reinforcement Learning』](https://dnddnjs.gitbooks.io/rl/content/)
 - [『강화학습 첫걸음』](https://github.com/HYEZ/basic-of-reinforcement-learning)
-<!-- - [『유니티 게임 AI 프로그래밍』](https://github.com/HYEZ/Game-AI) -->
 - [『빅데이터 - 하둡, 하이브로 시작하기』](https://wikidocs.net/book/2203)
 
 
