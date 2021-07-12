@@ -1,11 +1,4 @@
 # @HYEZ
-
-<!-- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/21326503/102598799-e5eac900-415f-11eb-83ca-80b0c92206dc.JPG" width="240"> -->
-
-<!--
-![IMG_1908](https://user-images.githubusercontent.com/21326503/102598799-e5eac900-415f-11eb-83ca-80b0c92206dc.JPG)
--->
-## My profile
 - 🔭 Master's Student in Sookmyung Women's Univ. / Korea
 - 👩‍💻 I’m currently working on [NAVER WEBTOON Corp.](https://webtoonscorp.com)
 - 🌱 I’m currently learning Recommendations, NLP, and Reinforcement Learning.
