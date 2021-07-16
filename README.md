@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HYEZ&hide=prs,issues&count_private=true&show_icons=true&theme=buefy" />
 </a>
 <br/>
-
+<!--
 ## Study
 - [『밑바닥부터 시작하는 딥러닝』](https://github.com/HYEZ/deep-learning-from-scratch)
 - [『밑바닥부터 시작하는 딥러닝 2』](https://github.com/HYEZ/deep-learning-from-scratch-2)
@@ -24,7 +24,7 @@
 - [『빅데이터 - 하둡, 하이브로 시작하기』](https://wikidocs.net/book/2203)
 
 
-<!--
+
 ## Study of Recommendation Systems
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=HYEZ&show_owner=true&repo=Wide-and-Deep-tensorflow-2.0)](https://github.com/HYEZ/Wide-and-Deep-tensorflow-2.0)
